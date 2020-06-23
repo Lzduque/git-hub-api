@@ -28,9 +28,7 @@ function App() {
   return (
     <div>
       <div className="header">
-        <h1> Header </h1>
-        <p> Resize the browser window to see the responsive effect.
-        </p>
+        <h1> My GitHub Favorites </h1>
       </div>  `
       <div className="row">
         <div className="column">
