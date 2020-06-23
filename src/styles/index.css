@@ -14,31 +14,31 @@ body {
 }
 
 /* Style the top navigation bar */
-.topnav {
+/* .topnav {
   overflow: hidden;
   background-color: #333;
-}
+} */
 
 /* Style the topnav links */
-.topnav a {
+/* .topnav a {
   float: left;
   display: block;
   color: #f2f2f2;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-}
+} */
 
 /* Change color on hover */
-.topnav a:hover {
+/* .topnav a:hover {
   background-color: #ddd;
   color: black;
-}
+} */
 
 /* Create three equal columns that floats next to each other */
 .column {
   float: left;
-  width: 33.33%;
+  width: 50%;
   padding: 15px;
 }
 
