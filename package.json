@@ -1,5 +1,6 @@
 {
   "name": "git-hub-api",
+  "homepage": "https://lzduque.github.io/git-hub-api/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
